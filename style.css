@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(248, 200, 207);
+    
+}
+
+h1{
+    color: brown;
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  
+}
+h2{
+    color: rgb(128, 22, 22);
+    font-family: "Satisfy", cursive;
+}
+h3{ 
+    color: brown;
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;}
